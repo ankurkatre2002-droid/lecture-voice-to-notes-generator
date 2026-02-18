@@ -1,2 +1,12 @@
-# lecture-voice-to-notes-generator
-🎓 AI-powered tool that converts lecture audio into transcripts, summaries, key points, quizzes &amp; flashcards using Whisper &amp; Gradio
+---
+title: Lecture Voice to Notes Generator
+emoji: 🎓
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: "6.5.1"
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
